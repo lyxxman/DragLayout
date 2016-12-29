@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="tab_selected_bg">#C4E1E1</color>
+    <!-- 公共背景色 -->
+    <color name="background">#e6e7e6</color>
+    <!-- 设置字体 -->
+    <color name="settingTitle">#333333</color>
+    <color name="setting">#9b9b9b</color>
+    <color name="black">#333333</color>
+    <color name="gray_black">#646464</color>
+    <color name="blackness">#000000</color>
+    <color name="nightgray">#8b8b8b</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gold_more">#F60</color>
+    <color name="lineColor">#D3D3D3</color>
+    <color name="lessLineColor">#ebebeb</color>
+    <color name="dividColor">#CCCCCC</color>
+    <!-- 分割线颜色 -->
+    <color name="gray_white">#f8fdff</color>
+    <color name="gray_ness">#DEDEDE</color>
+    <color name="ghostwhite">#F8F8FF</color>
+    <!-- 幽灵白 -->
+    <color name="gray">#ffcccc</color>
+    <color name="grayness">#f4f4f4</color>
+    <color name="pink">#FFCC99</color>
+    <color name="darkgray">#2f4f4f</color>
+    <color name="beige">#f5f5dc</color>
+    <color name="darknessblack">#313131</color>
+    <!-- 米灰 -->
+    <color name="lightgray">#d3d3d3</color>
+    <!-- 深灰色 -->
+    <color name="darkgrey">#757E8A</color>
+    <!-- 浅灰 -->
+    <color name="sliver">#c0c0c0</color>
+    <!-- 银灰 -->
+    <color name="littegray">#eaeaea</color>
+    <!-- 背景灰 -->
+    <color name="huise">#555555</color>
+
+    <!-- 灰色背景 -->
+    <color name="huiseline">#f2f2f2</color>
+
+    <!-- 字体灰 -->
+    <color name="hs">#888888</color>
+    <!-- 字体灰 -->
+    <color name="ct">#F5F5F5</color>
+    <!-- 抽屉颜色 -->
+
+	<!-- 粉红色 -->
+	<color name="pink_1">#fee5e4</color>
+    <!-- 橘黄色 -->
+    <color name="jhs">#F2A400</color>
+    <color name="gold">#b89766</color>
+    <color name="login_text_color">#595858</color>
+    <color name="cgt_list_title_color">#282828</color>
+    <color name="cgt_list_price_color">#494949</color>
+    <color name="cgt_list_stg_color">#6f6f6f</color>
+    <color name="none">#00000000</color>
+    <color name="red">#ff0000</color>
+    <color name="blue">#0fa7e2</color>
+    <color name="blueViolet">#dbf5ff</color>
+    <color name="skyBlue">#87ceeb</color>
+
+    <!-- 蓝紫罗兰 -->
+    <color name="cornflowerBlue">#6495ed</color>
+    <!-- 道奇蓝 -->
+    <color name="dodqerBlue">#1E90FF</color>
+
+    <!-- 矢车菊兰 -->
+    <color name="lavender">#E6E6FA</color>
+    <color name="btntextcolor">#ff1E90FF</color>
+    <!-- dialog中按钮字体颜色 -->
+    <color name="green">#99cc33</color>
+    <color name="transgray">#600d0d0d</color>
+    <color name="transblue">#50b0c4de</color>
+    <color name="list_item_bg">#1F1A17</color>
+    <color name="shezhi_gray">#C3CBd2</color>
+    <color name="font_gray">#535252</color>
+    <color name="email_bg">#ebeaea</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="gold_normal">#C9A762</color>
+    <color name="mine_info_txt">#969696</color>
+    <color name="mine_info_edit">#505050</color>
+    <color name="mine_info_btn">#ff4c32</color>
+    <color name="mine_info_btn_pressed">#ff3c11</color>
+    <color name="mine_info_myservice">#646464</color>
+    <color name="tab_click_color">#0fa7e2</color>
+    <color name="dianzan_num_color">#b5b5b5</color>
+    <color name="service_color">#fd6000</color>
+    <color name="adderrss_item">#c8c8c8</color>
+    <color name="edit_hint">#B9B9C8</color>
+    <color name="edit_hint_black">#3c3c3c</color>
+    <color name="goods_fy">#999999</color>
+    <color name="count_down_bg">#7f878d</color>
+    <!-- 会议室预定 -->
+    <color name="meeting_room_price">#ff7e00</color>
+    <color name="fil_metting">#666666</color>
+	<!-- Main -->
+	<color name="tab_txt_color">#666666</color>
+	<color name="tab_txt_color_pressed">#cc0000</color>
+	<color name="tab_back_ground">#E4E4E4</color>
+	<color name="tab_title">#DE2E2C</color>
+	<!-- local wine -->
+	<color name="local_wine_divide">#EFEFEF</color>
+	<color name="line_color_1">#DFDFDF</color>
+	<color  name="mask_color">#b3b3b3</color>
+	<color name="area_pop_num_color">#D3D3CE</color>
+    <!-- Segmented -->
+    <color name="radio_button_selected_color">#ff33b5e5</color>
+    <color name="pink_2">#FE9998</color>
+    <color name="index_bg">#f5f5f5</color>
+    <color name="btn_no_confrim">#CCCCCC</color>
+    <color name="index_header_search_bg">#BA1E1C</color>
+    <color name="index_header_search_txt">#ff6666</color>
+    <color name="more_less_line_color">#EDEDED</color>
+    <color name="select_address_seleced">#f3f3f3</color>
+    <color name="search_btn_bg">#FF7E7D</color>
+    <color name="search_type_attr">#DDDDDD</color>
+    <color name="line_color_2">#D8D8D8</color>
+    <color name="line_color_red">#DE2E2C</color>
+    <color name="lv_select">#F1F1F1</color>
+    <color name="news_tjh_class">#E2E2E2</color>
+    <color name="news_tjh_info_bg">#FFF4D3</color>
+    <color name="news_tjh_info_name">#DE2E2C</color>
+    <color name="login_bg">#ede9d4</color>
+    <color name="bind_phone">#FDF9D9</color>
+    <color name="attention_type">#0066cc</color>
+    <color name="app_load">#fdb936</color>
+    <color name="college_tab_pressed">#df2d2d</color>
+    <color name="index_header_bg">#E03F4F</color>
+    <color name="putaojiu_bg">#7668ea</color>
+    <color name="yangjiu_bg">#e83a05</color>
+    <color name="healthwine_bg">#fd9d0b</color>
+    <color name="beer_bg">#0f9c3c</color>
+        <color name="drink_bg">#e97626</color>
+    <color name="packing_bg">#c09d5b</color>
+    <color name="food_bg">#6bbc1f</color>
+    <color name="condiment_bg">#01b0ea</color>
+    <color name="product_tab_bg">#E4E4E4</color>
+
+    <color name="qr_black_bg_ban">#89333333</color>
+    <color name="qr_black_bg_title">#99000000</color>
+    <color name="qr_add_producat_code">#80333333</color>
+    <color name="qy_renling">#f79669</color>
+    <color name="renling_qy">#2ccb6b</color>
+    <color name="dark_ness_black">#333333</color>
+    <color name="dark_gray_bg">#ececec</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="accent">#6bbc1f</color>
+    <color name="own_shangjia">#c92727</color>
+    <color name="dash_shangjia">#ff9999</color>
+    <color name="zs_ls_bg">#ededed</color>
+    <color name="search_class">#fe7d7d</color>
+    <color name="qr_code_select">#df2d2d</color>
+    <!--白酒分频道-->
+    <color name="spirt_color">#df2d2d</color>
+    <color name="putaojiu_color">#914cdd</color>
+    <!-- -->
+</resources>
